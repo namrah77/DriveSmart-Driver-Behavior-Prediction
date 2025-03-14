@@ -7,4 +7,3 @@ The project covers the following aspects:
 3. How risky the environment is
 4. How risky the driver is
 5. Annotation of the objects in the environment that can pose risk to the driver
-# Project Files
